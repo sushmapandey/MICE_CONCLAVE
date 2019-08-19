@@ -1,0 +1,110 @@
+@font-face {
+  font-family: 'bfsi';
+  src:  url('../fonts/bfsi.eot?kxf267');
+  src:  url('../fonts/bfsi.eot?kxf267#iefix') format('embedded-opentype'),
+    url('../fonts/bfsi.ttf?kxf267') format('truetype'),
+    url('../fonts/bfsi.woff?kxf267') format('woff'),
+    url('../fonts/bfsi.svg?kxf267#bfsi') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+[class^="icon-"], [class*=" icon-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'bfsi' !important;
+  speak: none;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-paper-plane-o:before {
+  content: "\e900";
+}
+.icon-send-o:before {
+  content: "\e900";
+}
+.icon-icon:before {
+  content: "\e901";
+}
+.icon-padlock:before {
+  content: "\e902";
+}
+.icon-Group-25:before {
+  content: "\e903";
+}
+.icon-Group-26:before {
+  content: "\e904";
+}
+.icon-Group-27:before {
+  content: "\e905";
+}
+.icon-Group-30:before {
+  content: "\e906";
+}
+.icon-Group-31:before {
+  content: "\e907";
+}
+.icon-Group-32:before {
+  content: "\e908";
+}
+.icon-noun_Big-data_2019830:before {
+  content: "\e909";
+}
+.icon-noun_competitive-advantage_1954425:before {
+  content: "\e90a";
+}
+.icon-noun_Data-Protection_377532:before {
+  content: "\e90b";
+}
+.icon-noun_Google-Glass_2422404:before {
+  content: "\e90c";
+}
+.icon-noun_risk_152652:before {
+  content: "\e90d";
+}
+.icon-noun_self-regulation_1536167:before {
+  content: "\e90e";
+}
+.icon-noun_Travel_62578:before {
+  content: "\e90f";
+}
+.icon-Path-51:before {
+  content: "\e910";
+}
+.icon-Path-52:before {
+  content: "\e911";
+}
+.icon-play-button:before {
+  content: "\e912";
+}
+.icon-play-button-hover:before {
+  content: "\e913";
+}
+.icon-blockchain1:before {
+  content: "\e91e";
+}
+.icon-fintech:before {
+  content: "\e91f";
+}
+.icon-blockchain:before {
+  content: "\e920";
+}
+.icon-check-circle-o:before {
+  content: "\f05d";
+}
+.icon-twitter:before {
+  content: "\f099";
+}
+.icon-facebook:before {
+  content: "\f09a";
+}
+.icon-instagram:before {
+  content: "\f16d";
+}
